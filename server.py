@@ -1,11 +1,4 @@
 """
-This server.py file is located within the virtual environment file (Venv)
-To run flask in the Venv you need to use "set FLASK_APP=hello.py".
-^^ You can name the flask variable whatever you want. Example "set FLASK_APP=server.py".
-^^ In addition you can run flask in debug mode with "set FLASK_ENV=development"
-Be careful where you put your files. Just spent 20 min sorting out an error for wrong directory
-"render_template" allows us to send html to the server, but you need a new folder called templates for it to look for.
-Use "deactivate" to exit Venv.
 """
 import csv
 import os.path
